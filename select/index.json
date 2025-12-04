@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "僕らの在り処",
+  "base_artist": "ロクデナシ",
+  "createdAt": "2025-12-04T01:29:09.372349Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "僕らの在り処",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/01_僕らの在り処_ロクデナシ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕らの在り処",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_01_僕らの在り処_ロクデナシ.txt"
+    }
+  ]
+}
